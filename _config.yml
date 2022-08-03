@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Alex Miltenberger, PhD
 description: Research & project portfolio
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
