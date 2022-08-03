@@ -9,7 +9,7 @@ Why measure theory...
 Difference between MT & Bayes...
 
   $$a^2 + b^2 = c^2$$ 
-  test
+  
 
 $$P(m|d)$$
 
