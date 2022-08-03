@@ -1,6 +1,6 @@
 # Bayesian hypothesis testing
 
-Inversion-based interpretation... ![picture[(inversion-based-interp.png)
+Inversion-based interpretation... ![picture](inversion-based-interp.png)
 
 Hypothesis testing... ![picture](popper-bayes-testing.png)
 
