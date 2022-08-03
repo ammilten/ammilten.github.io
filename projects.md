@@ -1,4 +1,4 @@
-# Projects
+## Projects
 
 ### Nonstationary Multiple-Point Geostatistical Simulation
 [link](https://ammilten.github.io/projects/mps)
