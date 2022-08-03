@@ -1,7 +1,3 @@
-layout: page
-title: "Nonstationary Multiple-Point Geostatistical Simulation"
-permalink: /projects/mps/
-
 # Nonstationary Multiple-Point Geostatistical Simulation
 
 Multiple-point geostatistics (MPS) is a branch of geostatistics that tries to reproduce images with certain geological patterns, like sedimentary lenses and sinusoidal channels.
