@@ -1,5 +1,5 @@
 ---
-usemathjax: true
+usemathjax: false
 ---
 
 # Measure Theory in Geophysical Inverse Problems
