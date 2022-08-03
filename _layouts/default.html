@@ -6,12 +6,10 @@ layout: slate
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    {% if page.use_math %}
-    {% include mathjax_support.html %}
-    {% endif %}
+    {% if page.usemathjax %}
+    <script type="text/javascript" async
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+{% end if %}
   </head>
-
-  <body>
-
-  </body>
 </html>
