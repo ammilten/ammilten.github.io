@@ -1,4 +1,6 @@
-
+---
+usemathjax: true
+---
 
 # Measure Theory in Geophysical Inverse Problems
 
