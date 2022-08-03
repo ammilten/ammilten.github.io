@@ -1,3 +1,7 @@
+---
+title:Projects
+---
+
 ## Projects
 
 ### Nonstationary Multiple-Point Geostatistical Simulation
