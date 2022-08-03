@@ -1,0 +1,6 @@
+# Measure Theory in Geophysical Inverse Problems
+
+Why measure theory...
+
+Difference between MT & Bayes...
+
