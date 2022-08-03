@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Projects
 
 ### Nonstationary Multiple Point Geostatistics
