@@ -4,6 +4,10 @@ Why measure theory...
 
 Difference between MT & Bayes...
 
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
+
 $$P(m|d)$$
 
 $$ P(\mathbf{m}|\mathbf{d}) = \frac{P(\mathbf{d}|\mathbf{m})}{P(\mathbf{d})} P(\mathbf{m})$$
