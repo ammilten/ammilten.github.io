@@ -9,7 +9,7 @@ Why measure theory...
 Difference between MT & Bayes...
 
   
-$$ P(\mathbf{m}|\mathbf{d}) = \frac{P(\mathbf{d}|\mathbf{m})}{P(\mathbf{d})} P(\mathbf{m})$$
+$$ \textrm{P}(\mathbf{m}|\mathbf{d}) = \frac{\textrm{P}(\mathbf{d}|\mathbf{m})}{\textrm{P}(\mathbf{d})} \textrm{P}(\mathbf{m})$$
 
-$$ P_\textrm{post} = \frac{P_\textrm{obs}(g(\mathbf{m}))}{P_\textrm{push}(g(\mathbf{m}))} P_\textrm{prior}(\mathbf{m}) $$
+$$ \textrm{P}_\textrm{post} = \frac{\textrm{P}_\textrm{obs}(g(\mathbf{m}))}{\textrm{P}_\textrm{push}(g(\mathbf{m}))} \textrm{P}_\textrm{prior}(\mathbf{m}) $$
 
