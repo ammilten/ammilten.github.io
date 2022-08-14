@@ -4,30 +4,39 @@ title: Projects
 
 ## Projects
 
-### Nonstationary Multiple-Point Geostatistical Simulation
-[link](https://ammilten.github.io/projects/mps)
 
-### Climate Change Flood Risk Analysis
+### Who stands to lose the most from climate-induced flooding?
 [link](https://ammilten.github.io/projects/flood-risk)
 
-### Searching for water below Antarctic glaciers
-[link](https://ammilten.github.io/projects/radar-glaciers)
-
-### Modeling incised-valley-fill deposit formation
-[link](https://ammilten.github.io/projects/incised-valley-modeling)
+<img src="./figures/Figure6.png" alt="drawing" width="600"/>
 
 ### Understanding the evolution of channel networks in river deltas using graph theory
 [link](https://ammilten.github.io/projects/river-delta-graphs)
+<img src="./figures/channelflume.gif" alt="drawing" width="300"/>
+
 
 ### Updating geological maps from subsurface imaging
-[wrong link](https://ammilten.github.io/projects/measure-theory-hypothesis)
+[link](https://ammilten.github.io/projects/measure-theory-hypothesis)
+<img src="./figures/popper-bayes-testing.png" alt="drawing" width="600"/>
+
+
+### Modeling incised-valley-fill deposit formation
+Coming soon.
 
 ### Bayes' Rule isn't the only way to formulate inverse problems
-[link](https://ammilten.github.io/projects/measure-theory)
+Coming soon.
+
 
 ### Machine learning is revolutionizing how we solve inverse problems
-[link](https://ammilten.github.io/projects/measure-theory-inversion)
+Coming soon.
 
-### Other
-1. Space Colonization (TBD)
-2. 
+
+
+### Nonstationary Multiple-Point Geostatistical Simulation
+Coming soon.
+
+
+### Searching for water below Antarctic glaciers
+Coming soon.
+
+
