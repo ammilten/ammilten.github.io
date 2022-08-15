@@ -7,8 +7,7 @@ title: Projects
 
 ### Who stands to lose the most from climate-induced flooding?
 [link](https://ammilten.github.io/projects/flood-risk)
-
-<img src="figures/Figure6.png" alt="drawing" width="600"/>
+<img src="https://github.com/ammilten/ammilten.github.io/blob/main/projects/figures/Figure6.png" alt="drawing" width="600"/>
 
 ### Understanding the evolution of channel networks in river deltas using graph theory
 [link](https://ammilten.github.io/projects/river-delta-graphs)
